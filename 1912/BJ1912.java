@@ -1,6 +1,6 @@
 
 import java.util.*;
-// Ã³À½¿¡ dfs·Î ÇßÀ¸³ª ½Ã°£ ÃÊ°ú! -> ¿¬¼ÓµÈ ¼ýÀÚÀÌ´Ï DP¿¡ LIS¸¦ À¯»çÇÏ°Ô »ý°¢
+//ì²˜ìŒì— dfsë¡œ í–ˆìœ¼ë‚˜ ì‹œê°„ ì´ˆê³¼! -> ì—°ì†ëœ ìˆ«ìžì´ë‹ˆ DPì— LISë¥¼ ìœ ì‚¬í•˜ê²Œ ìƒê°
 
 public class BJ1912{
     
