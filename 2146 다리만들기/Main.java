@@ -1,6 +1,5 @@
 import java.util.*;
 
-
 public class Main{
     static class Dot{
         int x;
