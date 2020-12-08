@@ -1,9 +1,10 @@
 
 import java.util.*;
-// Ã³À½¿¡ dfs·Î ÇßÀ¸³ª ½Ã°£ ÃÊ°ú! -> ¿¬¼ÓµÈ ¼ıÀÚÀÌ´Ï DP¿¡ LIS¸¦ À¯»çÇÏ°Ô »ı°¢
+// ì²˜ìŒì— dfsë¡œ í–ˆìœ¼ë‚˜ ì‹œê°„ ì´ˆê³¼! -> ì—°ì†ëœ ìˆ«ìì´ë‹ˆ DPì— LISë¥¼ ìœ ì‚¬í•˜ê²Œ ìƒê°
 
 public class BJ11053{
     
+
     public static void main(String[] args){
         Scanner sc = new Scanner(System.in);
         int cnt = sc.nextInt();
