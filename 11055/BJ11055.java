@@ -23,6 +23,5 @@ public class BJ11055{
             max=Math.max(max,dp[i]);
         }
         System.out.println(max);
-        
     }
 }
